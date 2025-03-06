@@ -1,0 +1,10 @@
+D:\Инжир\Инжир\bin\Debug\Инжир.exe.config
+D:\Инжир\Инжир\bin\Debug\Инжир.exe
+D:\Инжир\Инжир\bin\Debug\Инжир.pdb
+D:\Инжир\Инжир\obj\Debug\Инжир.csproj.AssemblyReference.cache
+D:\Инжир\Инжир\obj\Debug\Инжир.Form1.resources
+D:\Инжир\Инжир\obj\Debug\Инжир.Properties.Resources.resources
+D:\Инжир\Инжир\obj\Debug\Инжир.csproj.GenerateResource.cache
+D:\Инжир\Инжир\obj\Debug\Инжир.csproj.CoreCompileInputs.cache
+D:\Инжир\Инжир\obj\Debug\Инжир.exe
+D:\Инжир\Инжир\obj\Debug\Инжир.pdb

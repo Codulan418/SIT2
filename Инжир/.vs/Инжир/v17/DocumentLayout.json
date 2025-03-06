@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|\u0418\u043D\u0436\u0438\u0440||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380B0F3-93C2-4CD0-AE69-CD26EAF4A2B3}|\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj|c:\\users\\\u0441odulan\\documents\\bo sinn\\\u0438\u043D\u0436\u0438\u0440\\\u0438\u043D\u0436\u0438\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3380B0F3-93C2-4CD0-AE69-CD26EAF4A2B3}|\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj|solutionrelative:\u0438\u043D\u0436\u0438\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380B0F3-93C2-4CD0-AE69-CD26EAF4A2B3}|\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj|C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\\u0438\u043D\u0436\u0438\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3380B0F3-93C2-4CD0-AE69-CD26EAF4A2B3}|\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj|solutionrelative:\u0438\u043D\u0436\u0438\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WindowsFormsApplication19\\WindowsFormsApplication19\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380B0F3-93C2-4CD0-AE69-CD26EAF4A2B3}|\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj|c:\\users\\\u0441odulan\\documents\\bo sinn\\\u0438\u043D\u0436\u0438\u0440\\\u0438\u043D\u0436\u0438\u0440\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0418\u043D\u0436\u0438\u0440",
+              "DocumentMoniker": "C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj",
+              "RelativeDocumentMoniker": "\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj",
+              "ToolTip": "C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj",
+              "RelativeToolTip": "\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-26T10:53:56.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WindowsFormsApplication19\\WindowsFormsApplication19\\Form1.cs",
+              "ToolTip": "D:\\WindowsFormsApplication19\\WindowsFormsApplication19\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:32:08.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0418\u043D\u0436\u0438\u0440\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440\\Form1.cs",
+              "RelativeToolTip": "\u0418\u043D\u0436\u0438\u0440\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:09:45.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0418\u043D\u0436\u0438\u0440\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0421odulan\\Documents\\Bo Sinn\\\u0418\u043D\u0436\u0438\u0440\\\u0418\u043D\u0436\u0438\u0440\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0418\u043D\u0436\u0438\u0440\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:08:29.95Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
